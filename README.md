@@ -1,5 +1,5 @@
-# bachelor_thesis
-Project for my Bachelor's degree
+# Bachelor's Thesis
+
 
 
 The 2020 COVID-19 pandemic has severely affected every part of the world's human activity: from economics to healthcare systems, from tourism and personal services to education; few sectors have been left untouched.
@@ -25,13 +25,13 @@ provides the opportunity to deepen some text mining techniques and to give an id
 of the discovered knowledge.
 
 The thesis is divided into the following chapters:
-- Chapter 1: we describe the two processes that were followed to the creation of the final dataset. We proceed with the description and selection
+- **Chapter 1**: we describe the two processes that were followed to the creation of the final dataset. We proceed with the description and selection
 of the variables of interest, and then we move on to the application of preprocessing methods on the text of the tweets, the main suspect of the analysis;
-- Chapter 2: some descriptive analyses are presented in order to better understand the structure of the dataset and roughly grasp the content of information content; we continue in this sense by focusing on some issues of relevance to the topic;
-- Chapter 3: a brief study of retweets is carried out, evaluating both the "response time" and the content. In particular, we compare the speed of retweets for COVID-19 with other emergencies, especially related to the to the spread of infectious diseases;
-- Chapter 4: we evaluate the psychological repercussions caused by the pandemic by analyzing the sentimental content of the messages. In this sense, we limit ourselves
+- **Chapter 2**: some descriptive analyses are presented in order to better understand the structure of the dataset and roughly grasp the content of information content; we continue in this sense by focusing on some issues of relevance to the topic;
+- **Chapter 3**: a brief study of retweets is carried out, evaluating both the "response time" and the content. In particular, we compare the speed of retweets for COVID-19 with other emergencies, especially related to the to the spread of infectious diseases;
+- **Chapter 4**: we evaluate the psychological repercussions caused by the pandemic by analyzing the sentimental content of the messages. In this sense, we limit ourselves
 to a classification of polarity (positive or negative) at the level of the unigrams. We then arrive at the trend of sentiment over the months;
-- Chapter 5: the statistical model Latent Dirichlet Allocation (LDA) is applied to the tweets in order to obtain a subdivision of the texts on the basis
+- **Chapter 5**: the statistical model Latent Dirichlet Allocation (LDA) is applied to the tweets in order to obtain a subdivision of the texts on the basis
 of the treated topic. The trend of topics over time is also visualized, trying to verify if there are dependencies between them and the news events related to the
 chronic events related to the coronavirus.
 
